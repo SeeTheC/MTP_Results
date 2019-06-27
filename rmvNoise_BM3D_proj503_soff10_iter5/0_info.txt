@@ -1,0 +1,27 @@
+No. of Projection: 503
+Percentage of correct common lines: 32.411716 
+Initial Correlation:0.958093
+Search offset:5.000000
+26-06-2019 05:02:15	Optimization started 
+26-06-2019 05:41:12	iter:1	prevCorr:0.958093	CurCorr:0.975542	changeCount:500
+26-06-2019 06:20:14	iter:2	prevCorr:0.975542	CurCorr:0.981400	changeCount:453
+26-06-2019 06:59:21	iter:3	prevCorr:0.981400	CurCorr:0.983606	changeCount:370
+26-06-2019 07:38:33	iter:4	prevCorr:0.983606	CurCorr:0.984460	changeCount:268
+26-06-2019 08:17:55	iter:5	prevCorr:0.984460	CurCorr:0.984821	changeCount:194
+
+----------------[Final Result]---------------------]
+iteration:5.000000
+Projection corr_error:0.984821
+Projection cl_error:0.324117
+3D obj Intial Estimate L2 Error:0.011679
+3D obj Intial Estimate Correaltion:0.813366
+3D obj Final Estimate L2 Error:0.010560
+3D obj Final Estimate Correaltion:0.895854
+
+3D obj Intial Estimate Relative MSE :1.022563
+3D obj Final Estimate Relative MSE :0.924557
+3D obj Intial Estimate Relative MSE (tnorm) :1.022563
+3D obj Final Estimate Relative MSE (tnorm):0.924557
+
+Initial  Rotation aCos error (r1,r2,r3): 8.897967,7.657457,10.675927
+Estimate Rotation aCos error (r1,r2,r3): 3.562630,4.584978,0.009115
